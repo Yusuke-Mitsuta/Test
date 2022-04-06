@@ -6,6 +6,6 @@ int main() {
 	a = 10;
 	std::cout << a;
 	
-	return;
+	return 0;
 
 }
